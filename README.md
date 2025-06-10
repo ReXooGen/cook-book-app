@@ -173,7 +173,6 @@ Project ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) un
 - [TheMealDB](https://www.themealdb.com/) untuk API resep
 - [Supabase](https://supabase.com/) untuk backend service
 - [Flutter](https://flutter.dev/) untuk framework
-- Komunitas Flutter Indonesia
 
 ## 📞 Support
 
