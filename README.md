@@ -116,7 +116,7 @@ flutter run
 
 | Login Screen | Home Screen | Recipe Details |
 |:------------:|:-----------:|:--------------:|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
+| ![Login](screenshots/LoginPage.png) | ![Home](screenshots/HomePage.png) | ![Profile](screenshots/ProfilePage.png) |
 
 ## 🏗️ Struktur Project
 
